@@ -69,20 +69,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anamaniac16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamaniac16&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamaniac16&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anamaniac16&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anamaniac16&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anamaniac16&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anamaniac16&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anamaniac16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anamaniac16&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=anamaniac16&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
